@@ -1,0 +1,23 @@
+{
+  "users": {
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404 [ ALL TRX ON ]",
+      "username": "-",
+      "lastActive": "2026-09-07T22:59:46.096Z",
+      "joinedAt": "2026-09-07T22:51:35.479Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-07T22:51:35.479Z"
+    }
+  },
+  "admins": [],
+  "resellers": [],
+  "maintenance": false,
+  "maintenanceReason": "",
+  "maintenanceSince": null,
+  "credits": {},
+  "stats": {
+    "success": 0,
+    "failed": 1
+  }
+}
