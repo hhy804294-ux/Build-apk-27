@@ -1,0 +1,70 @@
+{
+  "users": {
+    "1693284849": {
+      "userId": 1693284849,
+      "name": "-",
+      "username": "@Ppoaois",
+      "lastActive": "2026-09-09T11:37:15.361Z",
+      "joinedAt": "2026-09-09T11:37:15.361Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-09T11:37:15.361Z"
+    },
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404",
+      "username": "-",
+      "lastActive": "2026-09-09T11:30:53.039Z",
+      "joinedAt": "2026-09-09T07:22:41.326Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-09T07:22:41.326Z"
+    },
+    "6460615831": {
+      "userId": 6460615831,
+      "name": "𝕬𝖟𝖐𝖆(¢увєя)",
+      "username": "@pooohhy",
+      "lastActive": "2026-09-09T11:26:07.243Z",
+      "joinedAt": "2026-09-09T11:26:07.243Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-09T11:26:07.243Z"
+    },
+    "8680188532": {
+      "userId": 8680188532,
+      "name": "ᯓ𝙈𝙐𝙇𝙆𝙄 𝙋𝙖𝙥𝙞𝙥𝙪𝙪 #𝐓𝟐𝟎 #𝑴𝒐𝑫𝒛 #𝐒𝐓 #𝐋𝐘𝐙𝐍",
+      "username": "@Mulki_md",
+      "lastActive": "2026-09-09T11:27:16.973Z",
+      "joinedAt": "2026-09-09T11:26:41.248Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-09T11:26:41.248Z"
+    },
+    "8512925568": {
+      "userId": 8512925568,
+      "name": "eLχ ./Fiqzz𝐲y𝗕𝗥𝗭 - 🇧🇷 ₿ ん.",
+      "username": "@FiqzzzyMD",
+      "lastActive": "2026-09-09T11:28:10.954Z",
+      "joinedAt": "2026-09-09T11:27:10.067Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-09T11:27:10.067Z"
+    },
+    "8551947639": {
+      "userId": 8551947639,
+      "name": "⸸𝚡𝚟𝚊̀𝚗𝚎̈𝚜𝚌𝚝 ⏤͟͟͞͞DЯA",
+      "username": "@DraEnv404",
+      "lastActive": "2026-09-09T11:52:10.596Z",
+      "joinedAt": "2026-09-09T11:52:10.596Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-09T11:52:10.596Z"
+    }
+  },
+  "admins": [],
+  "resellers": [
+    8551947639
+  ],
+  "maintenance": false,
+  "maintenanceReason": "",
+  "maintenanceSince": null,
+  "credits": {},
+  "stats": {
+    "success": 1,
+    "failed": 0
+  }
+}
