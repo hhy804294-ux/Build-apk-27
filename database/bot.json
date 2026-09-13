@@ -1,0 +1,26 @@
+{
+  "users": {
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404",
+      "username": "-",
+      "lastActive": "2026-09-13T07:23:00.673Z",
+      "joinedAt": "2026-09-13T07:23:00.673Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-09-13T07:23:00.673Z"
+    }
+  },
+  "admins": [],
+  "resellers": [
+    8524777510
+  ],
+  "maintenance": false,
+  "maintenanceReason": "",
+  "maintenanceSince": null,
+  "credits": {},
+  "stats": {
+    "success": 0,
+    "failed": 0
+  },
+  "bannedUsers": []
+}
