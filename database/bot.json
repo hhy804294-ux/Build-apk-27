@@ -89,12 +89,22 @@
       "joinedAt": "2026-09-21T03:23:54.089Z",
       "credit": 0,
       "lastCreditRefill": "2026-09-21T03:23:54.089Z"
+    },
+    "8677127302": {
+      "userId": 8677127302,
+      "name": "Byy 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚 𝑴𝒐𝑫𝒛",
+      "username": "@Muis_aja",
+      "lastActive": "2026-09-21T12:14:09.863Z",
+      "joinedAt": "2026-09-21T12:14:09.863Z",
+      "credit": 2,
+      "lastCreditRefill": "2026-09-21T12:14:09.863Z"
     }
   },
   "admins": [],
   "resellers": [
     8524777510,
-    8783578874
+    8783578874,
+    8677127302
   ],
   "maintenance": false,
   "maintenanceReason": "",
