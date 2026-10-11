@@ -1,0 +1,49 @@
+{
+  "users": {
+    "1693284849": {
+      "userId": 1693284849,
+      "name": "ABOUT OKTO",
+      "username": "-",
+      "lastActive": "2026-10-11T13:38:59.257Z",
+      "joinedAt": "2026-10-11T13:38:42.407Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-11T13:38:42.407Z"
+    },
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404",
+      "username": "-",
+      "lastActive": "2026-10-11T13:35:53.779Z",
+      "joinedAt": "2026-10-11T13:35:21.686Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-11T13:35:21.686Z"
+    }
+  },
+  "startedUsers": {
+    "1693284849": {
+      "userId": 1693284849,
+      "name": "ABOUT OKTO",
+      "username": "-",
+      "firstStart": "2026-10-11T13:38:40.966Z"
+    },
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404",
+      "username": "-",
+      "firstStart": "2026-10-11T13:35:19.535Z"
+    }
+  },
+  "admins": [],
+  "resellers": [
+    8646791690
+  ],
+  "maintenance": false,
+  "maintenanceReason": "",
+  "maintenanceSince": null,
+  "credits": {},
+  "stats": {
+    "success": 0,
+    "failed": 0
+  },
+  "bannedUsers": []
+}
