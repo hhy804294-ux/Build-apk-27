@@ -2,9 +2,9 @@
   "users": {
     "8730993703": {
       "userId": 8730993703,
-      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404",
+      "name": "ᯓ𝐎𝐊𝐓𝐎 𝟎𝟕 ⛧./<404",
       "username": "-",
-      "lastActive": "2026-10-13T10:20:42.462Z",
+      "lastActive": "2026-10-13T11:22:37.711Z",
       "joinedAt": "2026-10-13T09:44:37.063Z",
       "credit": 3,
       "lastCreditRefill": "2026-10-13T09:44:37.063Z"
@@ -13,7 +13,7 @@
       "userId": 7919567715,
       "name": "Sanzz",
       "username": "@Sanzz116",
-      "lastActive": "2026-10-13T10:10:48.057Z",
+      "lastActive": "2026-10-13T11:28:13.701Z",
       "joinedAt": "2026-10-13T10:06:31.940Z",
       "credit": 3,
       "lastCreditRefill": "2026-10-13T10:06:31.940Z"
@@ -35,7 +35,8 @@
   },
   "admins": [],
   "resellers": [
-    1693284849
+    1693284849,
+    7927452569
   ],
   "maintenance": false,
   "maintenanceReason": "",
