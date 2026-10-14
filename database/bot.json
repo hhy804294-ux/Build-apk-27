@@ -1,0 +1,102 @@
+{
+  "users": {
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 𝟎𝟕 ⛧./<404",
+      "username": "-",
+      "lastActive": "2026-10-13T22:58:10.203Z",
+      "joinedAt": "2026-10-13T09:44:37.063Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-13T09:44:37.063Z"
+    },
+    "7919567715": {
+      "userId": 7919567715,
+      "name": "Sanzz",
+      "username": "@Sanzz116",
+      "lastActive": "2026-10-13T23:00:39.461Z",
+      "joinedAt": "2026-10-13T10:06:31.940Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-13T10:06:31.940Z"
+    },
+    "7927452569": {
+      "userId": 7927452569,
+      "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝔃𝓪𝓴𝔀𝓪𝓷 𝓭𝓮𝓿 𝓪𝓹𝓹𝓼",
+      "username": "@ZZZRR69",
+      "lastActive": "2026-10-13T11:40:52.621Z",
+      "joinedAt": "2026-10-13T11:40:52.621Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-13T11:40:52.621Z"
+    },
+    "8669203702": {
+      "userId": 8669203702,
+      "name": "print(\"ᴇʟʟ ᴠᴇʀꜱᴇ\")",
+      "username": "@ellexpert",
+      "lastActive": "2026-10-14T02:49:48.164Z",
+      "joinedAt": "2026-10-13T23:00:30.524Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-13T23:00:30.524Z"
+    },
+    "8646791690": {
+      "userId": 8646791690,
+      "name": "ᯓ Kanxźˣ (⩇⩇:⩇⩇)",
+      "username": "@kanxzcode",
+      "lastActive": "2026-10-14T02:11:41.102Z",
+      "joinedAt": "2026-10-14T01:20:02.210Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T01:20:02.210Z"
+    }
+  },
+  "startedUsers": {
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404",
+      "username": "-",
+      "firstStart": "2026-10-13T09:44:35.629Z"
+    },
+    "7919567715": {
+      "userId": 7919567715,
+      "name": "Sanzz",
+      "username": "@Sanzz116",
+      "firstStart": "2026-10-13T10:06:30.446Z"
+    },
+    "7927452569": {
+      "userId": 7927452569,
+      "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝔃𝓪𝓴𝔀𝓪𝓷 𝓭𝓮𝓿 𝓪𝓹𝓹𝓼",
+      "username": "@ZZZRR69",
+      "firstStart": "2026-10-13T11:40:51.239Z"
+    },
+    "7122032803": {
+      "userId": 7122032803,
+      "name": "ㅤㅤ ֆ Lou1s ꜱꜱᴛ",
+      "username": "@Swordac",
+      "firstStart": "2026-10-13T13:05:48.029Z"
+    },
+    "8669203702": {
+      "userId": 8669203702,
+      "name": "print(\"ᴇʟʟ ᴠᴇʀꜱᴇ\")",
+      "username": "@ellexpert",
+      "firstStart": "2026-10-13T23:00:28.889Z"
+    },
+    "8646791690": {
+      "userId": 8646791690,
+      "name": "ᯓ Kanxźˣ (⩇⩇:⩇⩇)",
+      "username": "@kanxzcode",
+      "firstStart": "2026-10-14T01:20:00.527Z"
+    }
+  },
+  "admins": [],
+  "resellers": [
+    1693284849,
+    7927452569,
+    8984839059
+  ],
+  "maintenance": false,
+  "maintenanceReason": "",
+  "maintenanceSince": null,
+  "credits": {},
+  "stats": {
+    "success": 6,
+    "failed": 2
+  },
+  "bannedUsers": []
+}
