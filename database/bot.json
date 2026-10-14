@@ -1,0 +1,34 @@
+{
+  "users": {
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 𝟎𝟕 ⛧./<404",
+      "username": "-",
+      "lastActive": "2026-10-14T06:25:03.059Z",
+      "joinedAt": "2026-10-14T06:24:46.174Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T06:24:46.174Z"
+    }
+  },
+  "startedUsers": {
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 𝟎𝟕 ⛧./<404",
+      "username": "-",
+      "firstStart": "2026-10-14T06:24:44.761Z"
+    }
+  },
+  "admins": [],
+  "resellers": [
+    8730993703
+  ],
+  "maintenance": false,
+  "maintenanceReason": "",
+  "maintenanceSince": null,
+  "credits": {},
+  "stats": {
+    "success": 0,
+    "failed": 0
+  },
+  "bannedUsers": []
+}
