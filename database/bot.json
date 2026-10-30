@@ -1,0 +1,694 @@
+{
+  "users": {
+    "845622713": {
+      "userId": 845622713,
+      "name": "Jekyy.sys",
+      "username": "@jeky_md",
+      "lastActive": "2026-10-30T06:20:50.027Z",
+      "joinedAt": "2026-10-21T13:10:30.596Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-21T13:10:30.596Z"
+    },
+    "1693284849": {
+      "userId": 1693284849,
+      "name": "777 - TOR$",
+      "username": "@TopBoysHatters",
+      "lastActive": "2026-10-25T22:37:16.920Z",
+      "joinedAt": "2026-10-14T11:09:23.868Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T11:09:23.868Z"
+    },
+    "1734052511": {
+      "userId": 1734052511,
+      "name": "𝐗𝐄𝐑 𝘈𝘍𝘙𝘐𝘡𝘈𝘓#𝘓𝘦𝘨𝘦𝘯𝘥𝘴166 #𝐒𝐓",
+      "username": "@afrizalxd",
+      "lastActive": "2026-10-30T06:29:56.360Z",
+      "joinedAt": "2026-10-30T05:56:40.745Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-30T05:56:40.745Z"
+    },
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 ⛧./<404",
+      "username": "-",
+      "lastActive": "2026-10-29T13:10:47.221Z",
+      "joinedAt": "2026-10-14T08:05:59.127Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T08:05:59.127Z"
+    },
+    "7183599240": {
+      "userId": 7183599240,
+      "name": "RapliMods",
+      "username": "@aboutrapp2",
+      "lastActive": "2026-10-27T13:52:24.002Z",
+      "joinedAt": "2026-10-14T14:07:44.954Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T14:07:44.954Z"
+    },
+    "7927452569": {
+      "userId": 7927452569,
+      "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝔃𝓪𝓴𝔀𝓪𝓷 𝓭𝓮𝓿 𝓪𝓹𝓹𝓼",
+      "username": "@ZZZRR69",
+      "lastActive": "2026-10-24T07:59:40.366Z",
+      "joinedAt": "2026-10-14T14:15:29.101Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T14:15:29.101Z"
+    },
+    "8783578874": {
+      "userId": 8783578874,
+      "name": "╾ 𝙍͟𝙞͟𝙙͟𝙯͟𝙭͟𝙮͟𝟎͟𝟐 ⟢ ⋆",
+      "username": "@RiidzzSTR2",
+      "lastActive": "2026-10-28T08:20:12.531Z",
+      "joinedAt": "2026-10-14T15:08:34.593Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T15:08:34.593Z"
+    },
+    "8703257719": {
+      "userId": 8703257719,
+      "name": "Senyap",
+      "username": "@senyap406",
+      "lastActive": "2026-10-14T16:19:04.394Z",
+      "joinedAt": "2026-10-14T15:49:36.040Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T15:49:36.040Z"
+    },
+    "8308625527": {
+      "userId": 8308625527,
+      "name": "¿『BARZ』? 𝕹𝕰𝖃𝕾𝖀𝕾,#𝐒𝐓 (ngurus project)",
+      "username": "@Barzsukaewe",
+      "lastActive": "2026-10-24T03:37:01.860Z",
+      "joinedAt": "2026-10-14T23:46:29.809Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-14T23:46:29.809Z"
+    },
+    "7919567715": {
+      "userId": 7919567715,
+      "name": "Sanzz",
+      "username": "@Sanzz116",
+      "lastActive": "2026-10-20T09:47:05.196Z",
+      "joinedAt": "2026-10-15T00:13:05.790Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-15T00:13:05.790Z"
+    },
+    "8984839059": {
+      "userId": 8984839059,
+      "name": "Kxźfry - #5 1 0",
+      "username": "@Kxzprice",
+      "lastActive": "2026-10-15T04:13:41.643Z",
+      "joinedAt": "2026-10-15T02:01:42.935Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-15T02:01:42.935Z"
+    },
+    "8850691571": {
+      "userId": 8850691571,
+      "name": "CEO || GAÑ || JARWO",
+      "username": "@RICSUKAMACHA",
+      "lastActive": "2026-10-22T08:53:45.264Z",
+      "joinedAt": "2026-10-15T02:53:12.029Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-15T02:53:12.029Z"
+    },
+    "8646791690": {
+      "userId": 8646791690,
+      "name": "ㅤㅤKxź ˣ | 𝐁¡𝐭𝐜𝐡",
+      "username": "@kanxzcode",
+      "lastActive": "2026-10-30T13:22:05.625Z",
+      "joinedAt": "2026-10-15T03:32:16.850Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-15T03:32:16.850Z"
+    },
+    "5203807327": {
+      "userId": 5203807327,
+      "name": "꧁༒ ☬R.I.C.C☬༒꧂ 会長",
+      "username": "@xxfanz",
+      "lastActive": "2026-10-27T14:07:58.939Z",
+      "joinedAt": "2026-10-15T04:18:41.054Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-15T04:18:41.054Z"
+    },
+    "8731142248": {
+      "userId": 8731142248,
+      "name": "Support CoinMarketCap Service",
+      "username": "@CoinMarketCap_Official_Service_o",
+      "lastActive": "2026-10-15T08:50:22.363Z",
+      "joinedAt": "2026-10-15T08:49:14.426Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-15T08:49:14.428Z"
+    },
+    "8750133857": {
+      "userId": 8750133857,
+      "name": "Hafidzxx🇲🇨",
+      "username": "@Seyraimupp",
+      "lastActive": "2026-10-21T14:47:10.564Z",
+      "joinedAt": "2026-10-18T03:40:07.157Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-18T03:40:07.157Z"
+    },
+    "8935313901": {
+      "userId": 8935313901,
+      "name": "elloww 𝘿' 𝙇𝙪𝙘𝙖̀ 𓇢𓆸(⩇⩇:⩇⩇)",
+      "username": "@elloww_official",
+      "lastActive": "2026-10-30T13:02:08.374Z",
+      "joinedAt": "2026-10-18T12:17:41.713Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-18T12:17:41.713Z"
+    },
+    "8894995415": {
+      "userId": 8894995415,
+      "name": "</>DenzNotdev",
+      "username": "@denz_offc",
+      "lastActive": "2026-10-23T20:11:33.298Z",
+      "joinedAt": "2026-10-18T13:55:23.370Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-18T13:55:23.370Z"
+    },
+    "8524777510": {
+      "userId": 8524777510,
+      "name": "/𝙇𝙖𝙣𝙯𝙯]𝖊𝖒𝖕𝖎𝖗𝖊",
+      "username": "@Olanzz1",
+      "lastActive": "2026-10-24T02:29:04.835Z",
+      "joinedAt": "2026-10-19T12:03:00.908Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-19T12:03:00.908Z"
+    },
+    "6701550065": {
+      "userId": 6701550065,
+      "name": "rioomd need 7jt ( open joki project )",
+      "username": "@rio_mddd",
+      "lastActive": "2026-10-27T13:53:51.161Z",
+      "joinedAt": "2026-10-19T12:37:13.075Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-19T12:37:13.075Z"
+    },
+    "8252677222": {
+      "userId": 8252677222,
+      "name": "KENZY OFFICIAL",
+      "username": "@Kenstore71",
+      "lastActive": "2026-10-30T12:35:41.116Z",
+      "joinedAt": "2026-10-19T15:37:42.517Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-19T15:37:42.517Z"
+    },
+    "6593759392": {
+      "userId": 6593759392,
+      "name": "𝑹𝑨𝑷𝒁𝑿 𝑴𝒐𝑫𝒛✨",
+      "username": "@Rapzsture",
+      "lastActive": "2026-10-21T16:44:58.538Z",
+      "joinedAt": "2026-10-20T06:33:52.502Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-20T06:33:52.502Z"
+    },
+    "7642729410": {
+      "userId": 7642729410,
+      "name": "Atajan",
+      "username": "-",
+      "lastActive": "2026-10-23T09:46:30.883Z",
+      "joinedAt": "2026-10-20T13:29:40.674Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-20T13:29:40.674Z"
+    },
+    "8491377827": {
+      "userId": 8491377827,
+      "name": "َ",
+      "username": "-",
+      "lastActive": "2026-10-20T15:30:39.133Z",
+      "joinedAt": "2026-10-20T15:29:37.125Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-20T15:29:37.125Z"
+    },
+    "8585406186": {
+      "userId": 8585406186,
+      "name": "VanzzXx54",
+      "username": "@VanzzXx_54",
+      "lastActive": "2026-10-21T15:04:42.275Z",
+      "joinedAt": "2026-10-21T15:03:51.930Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-21T15:03:51.930Z"
+    },
+    "8669203702": {
+      "userId": 8669203702,
+      "name": "ell </The Rebel>",
+      "username": "@Revolxt",
+      "lastActive": "2026-10-22T10:08:01.195Z",
+      "joinedAt": "2026-10-21T16:54:24.161Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-21T16:54:24.161Z"
+    },
+    "6672898753": {
+      "userId": 6672898753,
+      "name": "—𝙍𝙄𝙁𝙌𝙄 𝙎𝙏𝙊𝙍𝙀",
+      "username": "@Rifqistorev",
+      "lastActive": "2026-10-22T10:09:46.055Z",
+      "joinedAt": "2026-10-22T10:09:05.079Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-22T10:09:05.079Z"
+    },
+    "8055151130": {
+      "userId": 8055151130,
+      "name": "† 𝗕α𝗿𝗿𝘅𝗰𝗼𝗱𝗲 ϟ 𝐏𝐑!𝐌𝟑͟͟͞͞⏤ ♞",
+      "username": "@Barrxcodee",
+      "lastActive": "2026-10-24T02:39:37.031Z",
+      "joinedAt": "2026-10-24T02:39:37.031Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-24T02:39:37.031Z"
+    },
+    "7629825923": {
+      "userId": 7629825923,
+      "name": "Arca Store",
+      "username": "@ArcaStore2",
+      "lastActive": "2026-10-24T03:53:08.478Z",
+      "joinedAt": "2026-10-24T03:37:10.736Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-24T03:37:10.736Z"
+    },
+    "7689804040": {
+      "userId": 7689804040,
+      "name": "々 セオムダズ21 ツ",
+      "username": "@ceomudaz21",
+      "lastActive": "2026-10-24T04:31:43.111Z",
+      "joinedAt": "2026-10-24T04:14:42.669Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-24T04:14:42.669Z"
+    },
+    "7699183793": {
+      "userId": 7699183793,
+      "name": "Real official Grup -IB",
+      "username": "@Tops1BannirByMakloe",
+      "lastActive": "2026-10-27T13:44:17.128Z",
+      "joinedAt": "2026-10-24T06:53:33.369Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-24T06:53:33.369Z"
+    },
+    "8817270359": {
+      "userId": 8817270359,
+      "name": "</𝗞𝗮𝘆𝘇 𝙏𝙚𝙢𝙥𝙚𝙨𝙩/>",
+      "username": "@RealKayy1",
+      "lastActive": "2026-10-28T00:36:42.465Z",
+      "joinedAt": "2026-10-26T04:49:29.228Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-26T04:49:29.228Z"
+    },
+    "8824756103": {
+      "userId": 8824756103,
+      "name": "𝐃𝐀𝐍𝐙𝐗𝐕𝐘𝐙𝐗𝐘 𝘽𝙤𝙣𝙩𝙚𝙣!𝙯 #𝐒𝐓",
+      "username": "-",
+      "lastActive": "2026-10-26T06:18:44.834Z",
+      "joinedAt": "2026-10-26T06:18:41.055Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-26T06:18:41.055Z"
+    },
+    "8207751314": {
+      "userId": 8207751314,
+      "name": "-𝚇𝚣𝚅 Dik`",
+      "username": "@DikzX",
+      "lastActive": "2026-10-28T09:28:16.429Z",
+      "joinedAt": "2026-10-28T09:28:16.429Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-28T09:28:16.429Z"
+    },
+    "8569826620": {
+      "userId": 8569826620,
+      "name": "Sadriddinov Hojiakbar",
+      "username": "@sadriddinov_kh",
+      "lastActive": "2026-10-29T18:03:39.729Z",
+      "joinedAt": "2026-10-29T18:03:39.729Z",
+      "credit": 3,
+      "lastCreditRefill": "2026-10-29T18:03:39.729Z"
+    }
+  },
+  "startedUsers": {
+    "845622713": {
+      "userId": 845622713,
+      "name": "senior",
+      "username": "-",
+      "firstStart": "2026-10-21T13:09:41.354Z"
+    },
+    "1333059997": {
+      "userId": 1333059997,
+      "name": "Arek",
+      "username": "@Arekarek6373",
+      "firstStart": "2026-10-30T00:39:04.416Z"
+    },
+    "1693284849": {
+      "userId": 1693284849,
+      "name": "ABOUT OKTO",
+      "username": "-",
+      "firstStart": "2026-10-14T11:09:22.148Z"
+    },
+    "1734052511": {
+      "userId": 1734052511,
+      "name": "𝐗𝐄𝐑 𝘈𝘍𝘙𝘐𝘡𝘈𝘓#𝘓𝘦𝘨𝘦𝘯𝘥𝘴166 #𝐒𝐓",
+      "username": "@afrizalxd",
+      "firstStart": "2026-10-30T05:56:40.195Z"
+    },
+    "1870654882": {
+      "userId": 1870654882,
+      "name": "Ridwan",
+      "username": "@the_rlyone",
+      "firstStart": "2026-10-29T20:58:40.004Z"
+    },
+    "8730993703": {
+      "userId": 8730993703,
+      "name": "ᯓ𝐎𝐊𝐓𝐎 𝟎𝟕 ⛧./<404",
+      "username": "-",
+      "firstStart": "2026-10-14T08:05:57.278Z"
+    },
+    "7183599240": {
+      "userId": 7183599240,
+      "name": "RapliMods",
+      "username": "@aboutrapp2",
+      "firstStart": "2026-10-14T14:07:43.387Z"
+    },
+    "7927452569": {
+      "userId": 7927452569,
+      "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝔃𝓪𝓴𝔀𝓪𝓷 𝓭𝓮𝓿 𝓪𝓹𝓹𝓼",
+      "username": "@ZZZRR69",
+      "firstStart": "2026-10-14T14:15:27.447Z"
+    },
+    "8783578874": {
+      "userId": 8783578874,
+      "name": "╾ 𝙍͟𝙞͟𝙙͟𝙯͟𝙭͟𝙮͟𝟎͟𝟐 ⟢ ⋆",
+      "username": "@RiidzzSTR2",
+      "firstStart": "2026-10-14T15:08:05.829Z"
+    },
+    "8703257719": {
+      "userId": 8703257719,
+      "name": "Senyap",
+      "username": "@senyap406",
+      "firstStart": "2026-10-14T15:49:18.456Z"
+    },
+    "8920147320": {
+      "userId": 8920147320,
+      "name": "† 𝕽𝕴𝕬𝕹",
+      "username": "@riansct",
+      "firstStart": "2026-10-14T22:36:10.543Z"
+    },
+    "8677127302": {
+      "userId": 8677127302,
+      "name": "Byy 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚 𝑴𝒐𝑫𝒛 𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭ꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾ𑲭𑲭𑲭𑲭𑲭",
+      "username": "@Muis_aja",
+      "firstStart": "2026-10-14T23:03:02.139Z"
+    },
+    "8406479009": {
+      "userId": 8406479009,
+      "name": "XYNTAX-XX|JERY",
+      "username": "-",
+      "firstStart": "2026-10-14T23:11:16.047Z"
+    },
+    "8308625527": {
+      "userId": 8308625527,
+      "name": "¿『BARZ』? 𝕹𝕰𝖃𝕾𝖀𝕾,#𝐒𝐓 (ngurus project)",
+      "username": "@Barzsukaewe",
+      "firstStart": "2026-10-14T23:46:07.731Z"
+    },
+    "7919567715": {
+      "userId": 7919567715,
+      "name": "Sanzz",
+      "username": "@Sanzz116",
+      "firstStart": "2026-10-15T00:13:04.175Z"
+    },
+    "8557561674": {
+      "userId": 8557561674,
+      "name": "⏤͟͟͞͞ 『𝗪𝗧𝗙®』¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡ 𝗥𝗬𝗭𝗘𝗟 ( 𝗚𝗛𝗢𝗦𝗧 ) 零 𑲭𑲭卐",
+      "username": "@Ryzelxreal",
+      "firstStart": "2026-10-15T01:32:12.797Z"
+    },
+    "8739832766": {
+      "userId": 8739832766,
+      "name": "ꏂꍌꌦꌦꋊꄲ꓄꒯ꏂ꒦",
+      "username": "@Egyy_Reals01",
+      "firstStart": "2026-10-15T01:38:50.189Z"
+    },
+    "8984839059": {
+      "userId": 8984839059,
+      "name": "Kxźfry - #5 1 0",
+      "username": "@Kxzprice",
+      "firstStart": "2026-10-15T02:01:41.494Z"
+    },
+    "8741050372": {
+      "userId": 8741050372,
+      "name": "5TP",
+      "username": "@penggunagameguardian",
+      "firstStart": "2026-10-15T02:07:25.558Z"
+    },
+    "8850691571": {
+      "userId": 8850691571,
+      "name": "CEO || GAÑ || JARWO",
+      "username": "@RICSUKAMACHA",
+      "firstStart": "2026-10-15T02:53:10.498Z"
+    },
+    "8646791690": {
+      "userId": 8646791690,
+      "name": "ᯓKanxź ˣ (⩇⩇:⩇⩇)",
+      "username": "@kanxzcode",
+      "firstStart": "2026-10-15T03:32:15.322Z"
+    },
+    "8349255189": {
+      "userId": 8349255189,
+      "name": "𝗜𝗠𝗚𝗡 || 𝗥𝗘𝗡𝗗𝗬 𝗩𝟮",
+      "username": "@TopsByps",
+      "firstStart": "2026-10-15T03:35:09.679Z"
+    },
+    "5203807327": {
+      "userId": 5203807327,
+      "name": "꧁༒ ☬R.I.C.C☬༒꧂ 会長",
+      "username": "@xxfanz",
+      "firstStart": "2026-10-15T04:18:21.977Z"
+    },
+    "8731142248": {
+      "userId": 8731142248,
+      "name": "Support CoinMarketCap Service",
+      "username": "@CoinMarketCap_Official_Service_o",
+      "firstStart": "2026-10-15T08:49:12.916Z"
+    },
+    "8750133857": {
+      "userId": 8750133857,
+      "name": "Hafidzxx🇲🇨",
+      "username": "@Seyraimupp",
+      "firstStart": "2026-10-18T03:40:05.595Z"
+    },
+    "8935313901": {
+      "userId": 8935313901,
+      "name": "elloww🌪️",
+      "username": "@elloww_official",
+      "firstStart": "2026-10-18T12:17:40.280Z"
+    },
+    "8894995415": {
+      "userId": 8894995415,
+      "name": "</>Ðɛɲẓ̌ƝøţÐɛv",
+      "username": "@denz_offc",
+      "firstStart": "2026-10-18T13:54:37.080Z"
+    },
+    "8524777510": {
+      "userId": 8524777510,
+      "name": "/𝙇𝙖𝙣𝙯𝙯]𝖊𝖒𝖕𝖎𝖗𝖊",
+      "username": "@Olanzz1",
+      "firstStart": "2026-10-19T12:02:59.455Z"
+    },
+    "6701550065": {
+      "userId": 6701550065,
+      "name": "im riomd lau siape mpruy",
+      "username": "@rio_mddd",
+      "firstStart": "2026-10-19T12:33:16.243Z"
+    },
+    "8252677222": {
+      "userId": 8252677222,
+      "name": "KENZY OFFICIAL",
+      "username": "@KenzOfcl",
+      "firstStart": "2026-10-19T15:37:40.847Z"
+    },
+    "8438490163": {
+      "userId": 8438490163,
+      "name": "23:49",
+      "username": "@HLLEADER",
+      "firstStart": "2026-10-19T23:05:24.014Z"
+    },
+    "6593759392": {
+      "userId": 6593759392,
+      "name": "𝑹𝑨𝑷𝒁𝑿 𝑴𝒐𝑫𝒛",
+      "username": "@Rapzsture",
+      "firstStart": "2026-10-20T06:33:22.650Z"
+    },
+    "8984418184": {
+      "userId": 8984418184,
+      "name": "#𝙓𝙏 𝙕𝙯𝙖𝙢",
+      "username": "@zzamm108",
+      "firstStart": "2026-10-20T08:56:01.712Z"
+    },
+    "7642729410": {
+      "userId": 7642729410,
+      "name": "Atajan",
+      "username": "-",
+      "firstStart": "2026-10-20T13:28:55.929Z"
+    },
+    "8491377827": {
+      "userId": 8491377827,
+      "name": "َ",
+      "username": "-",
+      "firstStart": "2026-10-20T15:29:01.205Z"
+    },
+    "8043648958": {
+      "userId": 8043648958,
+      "name": "Arc Jalo",
+      "username": "-",
+      "firstStart": "2026-10-20T17:42:11.686Z"
+    },
+    "8602593884": {
+      "userId": 8602593884,
+      "name": "Sameer",
+      "username": "-",
+      "firstStart": "2026-10-21T04:46:21.179Z"
+    },
+    "8585406186": {
+      "userId": 8585406186,
+      "name": "VanzzXx54",
+      "username": "@VanzzXx_54",
+      "firstStart": "2026-10-21T15:03:08.027Z"
+    },
+    "8413197668": {
+      "userId": 8413197668,
+      "name": "Kiryzz_VVIPメᴀssᴀsɪɴ",
+      "username": "@Kiryzz_VVIP",
+      "firstStart": "2026-10-21T15:09:44.851Z"
+    },
+    "8669203702": {
+      "userId": 8669203702,
+      "name": "ell </The Rebel>",
+      "username": "@Revolxt",
+      "firstStart": "2026-10-21T16:54:22.733Z"
+    },
+    "6672898753": {
+      "userId": 6672898753,
+      "name": "—𝙍𝙄𝙁𝙌𝙄 𝙎𝙏𝙊𝙍𝙀",
+      "username": "@Rifqistorev",
+      "firstStart": "2026-10-22T10:09:03.500Z"
+    },
+    "8081313257": {
+      "userId": 8081313257,
+      "name": "ᯓ 𝙔𝙉𝙕 / 𝙵𝚖𝚕𝚢, (⩇⩇:⩇⩇)彡",
+      "username": "@YnzZz888",
+      "firstStart": "2026-10-23T08:58:59.407Z"
+    },
+    "6456560328": {
+      "userId": 6456560328,
+      "name": "𝐵𝑖𝑧𝑥𝑥",
+      "username": "@BizxxNotDev",
+      "firstStart": "2026-10-24T02:33:51.442Z"
+    },
+    "8473905425": {
+      "userId": 8473905425,
+      "name": "⏤͟͟͞͞𝑨𝒎𝒚𝒛𝒛'𝑪𝒉𝒊́𝒏𝒂",
+      "username": "-",
+      "firstStart": "2026-10-24T02:34:35.455Z"
+    },
+    "8055151130": {
+      "userId": 8055151130,
+      "name": "† 𝗕α𝗿𝗿𝘅𝗰𝗼𝗱𝗲 ϟ 𝐏𝐑!𝐌𝟑͟͟͞͞⏤ ♞",
+      "username": "@Barrxcodee",
+      "firstStart": "2026-10-24T02:39:11.082Z"
+    },
+    "8840665709": {
+      "userId": 8840665709,
+      "name": "Arca",
+      "username": "@ArcaStore1",
+      "firstStart": "2026-10-24T03:36:27.680Z"
+    },
+    "7629825923": {
+      "userId": 7629825923,
+      "name": "Arca Store",
+      "username": "@ArcaStore2",
+      "firstStart": "2026-10-24T03:36:53.005Z"
+    },
+    "7689804040": {
+      "userId": 7689804040,
+      "name": "々 セオムダズ21 ツ",
+      "username": "@ceomudaz21",
+      "firstStart": "2026-10-24T04:14:19.107Z"
+    },
+    "7699183793": {
+      "userId": 7699183793,
+      "name": "Real official Grup -IB",
+      "username": "-",
+      "firstStart": "2026-10-24T06:53:10.533Z"
+    },
+    "8824353539": {
+      "userId": 8824353539,
+      "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ.ㅤ",
+      "username": "@renzz56789",
+      "firstStart": "2026-10-25T11:01:29.296Z"
+    },
+    "8817270359": {
+      "userId": 8817270359,
+      "name": "</𝗞𝗮𝘆𝘇 𝙏𝙚𝙢𝙥𝙚𝙨𝙩/>",
+      "username": "@RealKayy1",
+      "firstStart": "2026-10-26T04:48:50.803Z"
+    },
+    "8824756103": {
+      "userId": 8824756103,
+      "name": "𝐃𝐀𝐍𝐙𝐗𝐕𝐘𝐙𝐗𝐘 𝘽𝙤𝙣𝙩𝙚𝙣!𝙯 #𝐒𝐓",
+      "username": "-",
+      "firstStart": "2026-10-26T06:18:39.677Z"
+    },
+    "8690896586": {
+      "userId": 8690896586,
+      "name": "Xȥҽʅ'GαႦɾιҽʅʅs",
+      "username": "@XzelGabriels",
+      "firstStart": "2026-10-26T07:57:23.455Z"
+    },
+    "8207751314": {
+      "userId": 8207751314,
+      "name": "-𝚇𝚣𝚅 Dik`",
+      "username": "@DikzX",
+      "firstStart": "2026-10-28T09:27:09.930Z"
+    },
+    "7041832555": {
+      "userId": 7041832555,
+      "name": "ϟ 𝒙𝒚𝒏𝒏𝒏",
+      "username": "@AlwaysXynnn",
+      "firstStart": "2026-10-28T10:46:21.526Z"
+    },
+    "8569826620": {
+      "userId": 8569826620,
+      "name": "Sadriddinov Hojiakbar",
+      "username": "@sadriddinov_kh",
+      "firstStart": "2026-10-29T18:03:13.778Z"
+    },
+    "8618486362": {
+      "userId": 8618486362,
+      "name": "VIHAN",
+      "username": "-",
+      "firstStart": "2026-10-30T09:14:13.322Z"
+    },
+    "6460615831": {
+      "userId": 6460615831,
+      "name": "𝘼𝙯𝙠𝙖",
+      "username": "@vinbuttry",
+      "firstStart": "2026-10-30T09:41:52.232Z"
+    },
+    "7533868268": {
+      "userId": 7533868268,
+      "name": "ⵢмⴰⴰⵜн ⎈.zip",
+      "username": "@SkySmooth",
+      "firstStart": "2026-10-30T10:28:08.948Z"
+    }
+  },
+  "admins": [
+    8731142248
+  ],
+  "resellers": [
+    8984839059,
+    8524777510,
+    8783578874,
+    8677127302,
+    1693284849
+  ],
+  "maintenance": false,
+  "maintenanceReason": "",
+  "maintenanceSince": null,
+  "credits": {},
+  "stats": {
+    "success": 55,
+    "failed": 45
+  },
+  "bannedUsers": []
+}
